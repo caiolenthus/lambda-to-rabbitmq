@@ -13,6 +13,6 @@ Extract N files from S3 bucket and send them to some database; each file contain
 - Python 3.7.3
 - pip3
 
-**Relevants links**v
+**Relevants links**
 - [ AWS Lambda Deployment Package in Python](https://docs.aws.amazon.com/lambda/latest/dg/lambda-python-how-to-create-deployment-package.html) 
 - [Multiprocessing ](https://docs.python.org/3/library/multiprocessing.html)
